@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="error_pass">password is less than 8 characters</string>
+    <string name="youroutfit">YourOutfit</string>
+</resources>
